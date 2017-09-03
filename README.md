@@ -4,7 +4,7 @@ A good grasp of JavaScript fundamentals is very important if you are passionate 
 We can look into topics like:
 
 - [x] ES6
-- [ ] Closures
+- [x] Closures
 - [ ] Functions & Pure functions
 - [ ] Functional Programming Basics
 - [ ] Partial application & Curry
