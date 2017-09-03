@@ -21,7 +21,7 @@ We can look into topics like:
 
 I was motivated to work more on my JS skills more after reading this medium [post][post-link]. Some of the skill sets I already had and for others which I didn't knew or was not that confident about I started practicing more on them and tried to create a solid foundation each day.
 
-# Further Reading
+### Further Reading
 
 - [Understanding Scope in JavaScript][scope-javaScript]
 - [Developing Thoughts - Building a Maybe in JavaScript][developing-thoughts]
@@ -34,7 +34,8 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 
 ### Thanks
 
-To Eric Elliott for this post.
+- To Eric Elliott for the post.
+- To Wes Bos for the awesome courses and being so down to earth.
 
 [scope-javaScript]: https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/
 [interviews]: https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews
