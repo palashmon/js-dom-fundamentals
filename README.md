@@ -1,7 +1,8 @@
 # JavaScript & DOM Fundamentals
 
-A good grasp of JavaScript fundamentals is very important if you are passionate about it.  
-We can look into topics like:
+A good grasp of JavaScript fundamentals is very important if you are passionate about it. If you posses a solid knowledge of JavaScript fundamentals, the only thing you need to get yourself familiar with when starting to work with a new framework is its syntax. The basic rules will be the same since under all the layers of abstractions. It is still just plain JavaScript.
+
+We can look into some basic topics like:
 
 - [x] ES6
 - [x] Closures
