@@ -13,12 +13,12 @@ We can look into some basic topics like:
 - [ ] Callbacks
 - [ ] Promises
 - [ ] Ajax & server API calls
-- [ ] Classes 
+- [ ] Classes
 - [ ] Generators & async/await
 - [x] Node & Express
 - [ ] Lodash
 
-### Motivation 
+### Motivation
 
 I was motivated to work more on my JS skills more after reading this medium [post][post-link]. Some of the skill sets I already had and for others which I didn't knew or was not that confident about I started practicing more on them and tried to create a solid foundation each day.
 
@@ -32,6 +32,7 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 - [10 JavaScript concepts you need to know for interviews][interviews]
 - [The Observer Pattern in JavaScript Explained][observer]
 - [Is Vanilla JavaScript worth learning? Absolutely.][vanilla-javaScript]
+- [Debug JavaScript with Chrome DevTools][debug-javaScript]
 
 ### Thanks
 
@@ -47,3 +48,4 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 [observer]: https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/
 [callbacks]: https://medium.com/@daspinola/javascript-from-callbacks-to-async-await-1cc090ddad99
 [vanilla-javaScript]: https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34
+[debug-javaScript]:https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db
