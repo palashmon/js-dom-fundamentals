@@ -11,7 +11,7 @@ We can look into some basic topics like:
 - [ ] Partial application & Curry
 - [ ] Builtin methods
 - [ ] Callbacks
-- [ ] Promises
+- [x] Promises
 - [ ] Ajax & server API calls
 - [ ] Classes
 - [ ] Generators & async/await
