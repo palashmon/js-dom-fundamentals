@@ -25,7 +25,7 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 ### Further Reading
 
 - [Understanding Scope in JavaScript][scope-javaScript]
-- [Developing Thoughts - Building a Maybe in JavaScript][developing-thoughts]
+- [A curated list of awesome Functional Programming stuff][Awesome-FP]
 - [How JavaScript works: Inside the V8 engine][V8-engine]
 - [An In-Depth 45 minute look at Async/Await][youtube-link-1]
 - [JavaScript - From callbacks to async/await][callbacks]
@@ -34,6 +34,7 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 - [Is Vanilla JavaScript worth learning? Absolutely.][vanilla-javaScript]
 - [Debug JavaScript with Chrome DevTools][debug-javaScript]
 - [JavaScript Promises for Dummies][javaScript-promises]
+- [Developing Thoughts - Building a Maybe in JavaScript][developing-thoughts]
 
 ### Thanks
 
@@ -51,3 +52,4 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 [vanilla-javaScript]: https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34
 [debug-javaScript]:https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db
 [javaScript-promises]: https://scotch.io/tutorials/javascript-promises-for-dummies
+[Awesome-FP]: https://github.com/stoeffel/awesome-fp-js#awesome-fp-js-
