@@ -7,7 +7,7 @@ We can look into some basic topics like:
 - [x] ES6
 - [x] Closures
 - [x] Functions & Pure functions
-- [ ] Functional Programming Basics
+- [ ] Functional Programming Basics (<code>WIP</code>)
 - [ ] Partial application & Curry
 - [ ] Builtin methods
 - [ ] Callbacks
