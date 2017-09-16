@@ -38,7 +38,7 @@ var askMom = function() {
         .then(function(fulfilled) {
             // yay, you got a new phone
             console.log(fulfilled);
-            // output: { brand: 'Samsung', color: 'black' }
+            // output: { brand: 'iPhone X5', color: 'Black' }
         })
         .catch(function(error) {
             // oops, mom don't buy it

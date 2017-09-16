@@ -44,7 +44,7 @@ var askMom = function() {
         .then(showOff) // chain it here
         .then(function(fulfilled) {
             console.log(fulfilled);
-            // output: 'Hey friend, I have a new black Samsung phone.'
+            // output: 'Hey friend, I have a new Black iPhone X5 phone.'
         })
         .catch(function(error) {
             // oops, mom don't buy it
