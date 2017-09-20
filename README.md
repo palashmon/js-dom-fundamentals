@@ -35,6 +35,8 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 - [Debug JavaScript with Chrome DevTools][debug-javaScript]
 - [JavaScript Promises for Dummies][javaScript-promises]
 - [Developing Thoughts - Building a Maybe in JavaScript][developing-thoughts]
+- [Learn JavaScript Essentials (for all skill levels)][Learn-JavaScript-Essentials]
+- [10 Priceless Resources for JavaScript Learners][Priceless-Resources-JS]
 
 ### Thanks
 
@@ -53,3 +55,6 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 [debug-javaScript]:https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db
 [javaScript-promises]: https://scotch.io/tutorials/javascript-promises-for-dummies
 [Awesome-FP]: https://github.com/stoeffel/awesome-fp-js#awesome-fp-js-
+[Learn-JavaScript-Essentials]: https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+[Priceless-Resources-JS]: https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
+
