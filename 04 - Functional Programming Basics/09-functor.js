@@ -1,6 +1,6 @@
 /**
     Concept     :   Functor
-    Description :   A functor is simply something that can be mapped over.
+    Description :   A functor is simply something that can be mapped over like array, promises, streams, etc.
                     In OOP-speak, we'd call it a 'Mappable' instead.
     Usability   :   Functors are great higher-order abstractions that allow us to create a variety
                     of generic functions that will work for any data type.

@@ -11,5 +11,9 @@
     "license": "ISC",
     "devDependencies": {
         "browser-sync": "*"
+    },
+    "dependencies": {
+        "node-fetch": "^1.7.3",
+        "baconjs": "^0.7.95"
     }
 }
