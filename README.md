@@ -14,7 +14,7 @@ We can look into some basic topics like:
 - [x] Promises
 - [ ] Ajax & server API calls
 - [x] Classes
-- [ ] Generators & async/await
+- [x] Generators & async/await (_WIP_)
 - [x] Node & Express
 - [ ] Lodash
 
