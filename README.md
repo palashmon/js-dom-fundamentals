@@ -13,7 +13,7 @@ We can look into some basic topics like:
 - [x] Callbacks
 - [x] Promises
 - [ ] Ajax & server API calls
-- [ ] Classes
+- [x] Classes
 - [ ] Generators & async/await
 - [x] Node & Express
 - [ ] Lodash
