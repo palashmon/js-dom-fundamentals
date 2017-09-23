@@ -46,3 +46,5 @@ class Rectangle {
 
 const square = new Rectangle(10, 10);
 console.log(`Area of rectangle is ${square.area}`);
+// Outputs
+// Area of rectangle is 100
