@@ -8,13 +8,13 @@ We can look into some basic topics like:
 - [x] Closures
 - [x] Functions & Pure functions
 - [x] Functional Programming Basics
-- [ ] Partial application & Curry
+- [ ] Partial application & Curry (_WIP_)
 - [ ] Builtin methods
 - [x] Callbacks
 - [x] Promises
 - [ ] Ajax & server API calls
 - [x] Classes
-- [x] Generators & async/await (_WIP_)
+- [x] Generators & async/await
 - [x] Node & Express
 - [ ] Lodash
 
