@@ -8,8 +8,8 @@ We can look into some basic topics like:
 - [x] Closures
 - [x] Functions & Pure functions
 - [x] Functional Programming Basics
-- [ ] Partial application & Curry (_WIP_)
-- [ ] Builtin methods
+- [x] Partial application & Curry
+- [ ] Builtin methods (_WIP_)
 - [x] Callbacks
 - [x] Promises
 - [ ] Ajax & server API calls
