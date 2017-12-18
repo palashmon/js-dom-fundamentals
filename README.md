@@ -24,6 +24,7 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 
 ### Further Reading
 
+- [The Modern JavaScript Tutorial][javascript-info]
 - [Understanding Scope in JavaScript][scope-javaScript]
 - [A curated list of awesome Functional Programming stuff][Awesome-FP]
 - [How JavaScript works: Inside the V8 engine][V8-engine]
@@ -57,4 +58,4 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 [Awesome-FP]: https://github.com/stoeffel/awesome-fp-js#awesome-fp-js-
 [Learn-JavaScript-Essentials]: https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 [Priceless-Resources-JS]: https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
-
+[javascript-info]: http://javascript.info/
