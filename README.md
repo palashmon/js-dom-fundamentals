@@ -31,6 +31,7 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 - [An In-Depth 45 minute look at Async/Await][youtube-link-1]
 - [JavaScript - From callbacks to async/await][callbacks]
 - [10 JavaScript concepts you need to know for interviews][interviews]
+- [Can (a ==1 && a== 2 && a==3) ever evaluate to true?][interviews2]
 - [The Observer Pattern in JavaScript Explained][observer]
 - [Is Vanilla JavaScript worth learning? Absolutely.][vanilla-javaScript]
 - [Debug JavaScript with Chrome DevTools][debug-javaScript]
@@ -59,3 +60,4 @@ I was motivated to work more on my JS skills more after reading this medium [pos
 [Learn-JavaScript-Essentials]: https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
 [Priceless-Resources-JS]: https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e
 [javascript-info]: http://javascript.info/
+[interviews2]: https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true
